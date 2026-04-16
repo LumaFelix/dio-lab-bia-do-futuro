@@ -1,0 +1,17 @@
+{
+  "organizacao_financeira": [
+    "Registrar todas as receitas e despesas",
+    "Separar contas pessoais das empresariais",
+    "Revisar gastos mensalmente"
+  ],
+  "controle_caixa": [
+    "Atualizar o fluxo de caixa diariamente",
+    "Evitar gastos não planejados",
+    "Criar uma reserva de emergência"
+  ],
+  "gestao_administrativa": [
+    "Planejar metas mensais",
+    "Acompanhar indicadores básicos",
+    "Manter documentos organizados"
+  ]
+}
