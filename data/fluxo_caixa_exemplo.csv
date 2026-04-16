@@ -1,0 +1,6 @@
+data,descricao,entrada,saida,saldo
+01/03,Saldo inicial,0,0,1000
+02/03,Venda,500,0,1500
+03/03,Compra de materiais,0,300,1200
+05/03,Pagamento aluguel,0,700,500
+07/03,Venda,400,0,900
