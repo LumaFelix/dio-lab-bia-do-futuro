@@ -61,4 +61,4 @@ O impacto dessa solução está em ajudar pessoas a desenvolverem organização 
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+(https://youtu.be/KxK7cKhbPbI)
